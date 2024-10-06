@@ -6,7 +6,7 @@ metadata:
   name: projapp
 spec:
   containers:
-  - image: httpd
+  - image: mohamedsamir759/httpd
     name: projapp
     ports:
     - containerPort: 8080
